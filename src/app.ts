@@ -1,9 +1,9 @@
 import { Server } from "./presentation/server";
 
-(async()=>{
-    main();
+(async () => {
+  main();
 })();
 
-function main (){
-    Server.start();
+function main() {
+  Server.start();
 }
