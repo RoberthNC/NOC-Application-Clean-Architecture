@@ -12,3 +12,6 @@ MAILER_EMAIL =
 MAILER_SECRET_KEY = 
 PROD = false
 ```
+
+3. Execute npm install in order to install all the dependencies
+4. Execute npm run dev in order to run our project using ts-node

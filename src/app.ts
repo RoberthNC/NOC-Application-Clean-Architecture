@@ -7,7 +7,7 @@ import { Server } from "./presentation/server";
 })();
 
 function main() {
-  // Server.start();
+  Server.start();
   // console.log({port: envs.PORT});
   // console.log({port: envs.MAILER_EMAIL});
   // console.log({port: envs.MAILER_SECRET_KEY});
